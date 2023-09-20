@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141827093237",
+    "project_id": "rsocial-9549b",
+    "storage_bucket": "rsocial-9549b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141827093237:android:d3bce78806958301df0bbc",
+        "android_client_info": {
+          "package_name": "com.example.r_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141827093237-rtiviikiq15kf39tdg867htq6b8htsb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7RH8CrrcndTrtuXK88h1yVUQmAWusx98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141827093237-rtiviikiq15kf39tdg867htq6b8htsb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
